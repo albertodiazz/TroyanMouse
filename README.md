@@ -8,3 +8,7 @@ I use C++ for the master app with hook event on windows, socket io and python fo
 A big influence for resolve this project:
 
 - https://warroom.rsmus.com/dll-injection-part-1-setwindowshookex/
+
+You need compile the code of socket io and add the folders, sioclient.lib, sioclient.pdb to the library of master_app
+
+- https://github.com/socketio/socket.io-client-cpp
