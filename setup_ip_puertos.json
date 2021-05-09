@@ -1,0 +1,11 @@
+{
+    "_comentarios_" : "NO INVIERTAS LOS PUERTOS YA QUE DESDE EL CODIGO ESTAN SETEADOS LO HAGO ASI PARA UN FUTURO DESARROLLO",
+    "posicion" : [{
+        "IP" : "http://192.168.100.23",
+        "PORT" : "3001"
+    }],
+    "botones" : [{
+        "IP" : "http://192.168.100.23",
+        "PORT" : "3000"
+        }]
+}

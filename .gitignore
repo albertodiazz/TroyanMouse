@@ -1,0 +1,4 @@
+master_app/master_app/lib/*
+master_app/master_app/Debug/*
+master_app/.vs/*
+master_app/Debug/*
